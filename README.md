@@ -1,4 +1,4 @@
-# eds124
+# EDS124BR Portfolio
 Alejandro C. Ramirez
 A16123316
 
